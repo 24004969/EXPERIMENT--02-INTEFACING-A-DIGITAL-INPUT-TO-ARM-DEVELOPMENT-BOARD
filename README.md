@@ -193,7 +193,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## layout of the circuit :
-![Uploading WhatsApp Image 2025-05-03 at 11.42.45_f48784bc.jpg…]()
+![WhatsApp Image 2025-05-03 at 11 42 45_f48784bc](https://github.com/user-attachments/assets/09771966-f60f-4a24-833e-36c86622bd58)
+
 
  
  
